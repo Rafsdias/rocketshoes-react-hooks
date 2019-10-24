@@ -19,7 +19,7 @@ Sample store built using React Hooks, Redux and Redux-Saga.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Rafsdias/rocketshoes-react.git
+git clone https://github.com/Rafsdias/rocketshoes-react-hooks.git
 ```
 
 Install the dependencies:
